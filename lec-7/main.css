@@ -21,6 +21,18 @@ h1{
     font-style: italic;
 
 }
+a:link{
+    color:purple;
+}
+a:link{
+    color:red;
+}
+a:hover{
+   color:#b2beb5;
+}
+a:active{
+    color:green;
+}
 .kl{
 text-transform: uppercase;
 color: red;
