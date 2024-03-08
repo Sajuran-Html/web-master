@@ -1,0 +1,34 @@
+h1{
+    color: blue;
+    width: 50%;
+    max-width: 500px;
+    min-width: 200px;
+    border: 5px dashed green;
+    background-color: tomato;
+   
+}
+.pol{
+    border: 3px solid black;
+    outline: 5px solid green;
+    width: 300px;
+    height: 50px;
+    font-family:"roboto",serif;
+    font-style: italic;
+
+}
+#PRICE{
+    text-decoration: line-through;
+    font-style: italic;
+
+}
+.kl{
+text-transform: uppercase;
+color: red;
+text-align: center;
+text-shadow: 2px 2px 2px red;
+font-weight: 600;
+font-size: 20px;
+}
+#sai{
+    text-decoration:underline;
+}
